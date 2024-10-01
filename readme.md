@@ -8,3 +8,7 @@ looking at my [resume](https://peterbraden.co.uk/resume), or reading more
 
 If you're interested in the tools that a dinosaur like myself uses, then
 my [dotfiles repo](https://github.com/peterbraden/dotfiles) is likely of interest.
+
+I no longer contribute to much open source in my free time, but I still have several
+projects such as [node-opencv](https://github.com/peterbraden/node-opencv) and 
+[ical.js](https://github.com/peterbraden/ical.js) that several people find useful.
