@@ -12,3 +12,5 @@ my [dotfiles repo](https://github.com/peterbraden/dotfiles) is likely of interes
 I no longer contribute to much open source in my free time, but I still have several
 projects such as [node-opencv](https://github.com/peterbraden/node-opencv) and 
 [ical.js](https://github.com/peterbraden/ical.js) that several people find useful.
+
+Please feel free to [contact me](https://peterbraden.co.uk/contact/).
