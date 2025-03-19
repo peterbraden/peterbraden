@@ -6,6 +6,9 @@ If you're interested in my professional achievements, you are better suited
 looking at my [resume](https://peterbraden.co.uk/resume), or reading more 
 [about me](https://peterbraden.co.uk/about) on my website.
 
+**I am currently available for [contract work](https://braden.ch/index.html) -
+please reach out if you would benefit from my expertise!**
+
 If you're interested in the tools that a dinosaur like myself uses, then
 my [dotfiles repo](https://github.com/peterbraden/dotfiles) is likely of interest.
 
